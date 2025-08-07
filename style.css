@@ -1,0 +1,50 @@
+.top1{
+    border:solid blue;
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    font-weight: bold;
+    padding-right: 40px;
+    
+}
+
+.top2{
+    background-color: yellow;
+    color: blue;
+    border: none;
+    text-align: center;
+    padding: 3px;
+    
+}
+
+.top3{
+    background-color: blue;
+    color: aliceblue;
+    justify-content: space-around;
+    display: flex;
+    font-weight: bold;
+}
+
+.search{
+    bottom: solid white;
+    background-color: antiquewhite;
+    display: flex;
+    gap: 20px;
+    font-weight: bold;
+    justify-content: space-around;
+
+}
+.navbar{
+    position: sticky;
+}
+.img1{
+    border: none;
+    background-color: antiquewhite;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding-top: 25px;
+}
