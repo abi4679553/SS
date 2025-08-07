@@ -40,7 +40,7 @@
     position: sticky;
 }
 .img1{
-    border: none;
+    border: solid;
     background-color: antiquewhite;
     display: flex;
     gap: 20px;
