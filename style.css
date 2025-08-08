@@ -38,6 +38,7 @@
 }
 .navbar{
     position: sticky;
+    top: 0;
 }
 .img1{
     border: solid;
@@ -47,4 +48,16 @@
     justify-content: space-around;
     margin-top: 20px;
     padding-top: 25px;
+}
+
+.signup{
+    background-color: lightgray;
+    text-align: center;
+    padding: 30px;
+
+}
+.footer{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
 }
